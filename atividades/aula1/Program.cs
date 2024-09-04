@@ -11,9 +11,9 @@ const int DAYS_IN_WEEK = 7;
 // IMPRIMINDO STRING CONCATENADA
 Console.WriteLine($" a semana tem {DAYS_IN_WEEK}");
 
-// new tipo enumerodor envoca o metado cosntrutor do objeto
-// toda calase tem o seu costrutuor padram implicito sem argumentos/parameds
-// e possivel sobescrever esse metodo com especificando argumentos toda via se o fizzermos perdermos o original implicido e
+// new tipo enumerodor envoca o metado construtor do objeto
+// toda clase tem o seu costrutuor padrão implicito sem argumentos/paramedes
+// e possivel sobescrever esse metodo com especificando argumentos toda via se o fizermos perdermos o original implicido e
 // precisaremos defeni-lo esplecitamente
 
 TipoEnum tipoEnum= new TipoEnum(); //()isso no final e um metodo,construindo uma nova istancia dele
